@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  color: #000000;
+}
+
+a {
+  text-decoration: none;
+  color: #333333;
+}
+
+#header {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header #text {
+  font-size: 3em;
+  color: #333333;
+  text-align: center;
+  padding-bottom: 5px;
+  border-bottom: 3px solid #CCCCCC;
+}
+
+#content {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#left {
+  display: inline-block;
+  float: left;
+}
+
+#left #photo {
+  width: 384px;
+}
+
+#right {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+#right #title {
+  font-size: 1.5em;
+  color: #0000FF;
+  line-height: 0px;
+}
+
+#right #company {
+  line-height: 4px;
+}
+
+#right #email {
+  font-size: 0.9em;
+  margin-top: 40px;
+  line-height: 4px;
+}
+
+#right #links {
+  margin-top: 50px;
+  line-height: 10px;
+}
+
+#footer {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  clear: both;
+}
+
+#footer #text {
+  font-size: 0.5em;
+  text-align: center;
+  color: #999999;
+}
