@@ -1,88 +1,51 @@
 body {
   font-family: Avenir, Helvetica, sans-serif;
-  font-size: 1em;
-  color: #000000;
+  margin: 0;
+  padding: 0 4em;
+  padding: 0 4rem;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: normal;
+  background-color: #333333;
+  color: #ffffff;
+  margin: 0 -4em 1em -4em;
+  margin: 0 -4rem 1rem -4rem;
+  padding: 0.5em 4em;
+  padding: 0.5rem 4rem;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: normal;
+  margin: 2em 0 0.5em 0;
+  margin: 2rem 0 0.5rem 0;
+  color: #333333;
+}
+
+p {
+  margin: 0.2em 0 0.2em 0;
+  margin: 0.2rem 0 0.2rem 0;
 }
 
 a {
-  color: #333333;
+  text-decoration: none;
 }
 
-#header {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#header #text {
-  font-size: 3em;
-  color: #333333;
-  text-align: center;
-  padding-bottom: 5px;
-  border-bottom: 3px solid #CCCCCC;
-}
-
-#content {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#left {
-  display: inline-block;
-  float: left;
-}
-
-#left #photo {
+#photo {
   width: 384px;
 }
 
-#right {
-  display: inline-block;
-  margin-left: 20px;
-}
-
-#right #title {
-  font-size: 1.5em;
-  color: #0000FF;
-  line-height: 0px;
-}
-
-#right #company {
-  line-height: 4px;
-}
-
-#right #email {
+#date {
+  font-family: Monospace;
   font-size: 0.9em;
-  margin-top: 40px;
-  line-height: 4px;
-}
-
-#right #links {
-  margin-top: 50px;
-  line-height: 10px;
-}
-
-#right #projects {
-  margin-top: 50px;
-  line-height: 10px;
-}
-
-#subheader-text {
-  font-size: 2em;
-  color: #333333;
 }
 
 #footer {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 20px;
-  clear: both;
-}
-
-#footer #text {
   font-size: 0.5em;
+  margin-top: 4em;
+  margin-top: 4rem;
   text-align: center;
   color: #999999;
 }
