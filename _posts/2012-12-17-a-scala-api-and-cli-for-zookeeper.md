@@ -1,5 +1,6 @@
 ---
 layout: post
+title: David Edwards | Blog
 topic: A Scala API and CLI for ZooKeeper
 date: 2012-12-17
 ---

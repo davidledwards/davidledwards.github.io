@@ -1,5 +1,6 @@
 ---
 layout: post
+title: David Edwards | Blog
 topic: Improving Sepsis Diagnosis and Reducing Cost with Big Data
 date: 2016-02-10
 ---
