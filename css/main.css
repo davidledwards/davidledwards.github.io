@@ -81,8 +81,11 @@ a {
 .post {
 }
 
-ul.posts li {
+ul.posts {
   margin: 0;
   padding: 0;
+}
+
+ul.posts li {
   list-style: none;
 }
