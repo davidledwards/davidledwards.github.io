@@ -5,12 +5,35 @@ body {
   padding: 0 4rem;
 }
 
+nav {
+  font-size: 1.5em;
+  color: #999999;
+}
+
 nav ul {
   padding: 0;
   list-style: none;
 }
 
 nav ul li {
+  display: inline;
+}
+
+footer {
+  font-size: 0.5em;
+  margin-top: 4em;
+  margin-top: 4rem;
+  border-top: 1px solid #999999;
+  text-align: center;
+  color: #999999;
+}
+
+footer ul {
+  padding: 0;
+  list-style: none;
+}
+
+footer ul li {
   display: inline;
 }
 
@@ -52,30 +75,4 @@ a {
 #date {
   font-family: Monospace;
   font-size: 0.9em;
-}
-
-footer {
-  font-size: 0.5em;
-  margin-top: 4em;
-  margin-top: 4rem;
-  border-top: 1px solid #d5d5d5;
-  text-align: center;
-  color: #999999;
-}
-
-footer ul {
-  padding: 0;
-  list-style: none;
-}
-
-footer ul li {
-  display: inline;
-}
-
-#footer {
-  font-size: 0.5em;
-  margin-top: 4em;
-  margin-top: 4rem;
-  text-align: center;
-  color: #999999;
 }
