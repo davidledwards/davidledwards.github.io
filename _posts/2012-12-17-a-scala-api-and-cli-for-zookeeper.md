@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Scala API and CLI for ZooKeeper
+topic: A Scala API and CLI for ZooKeeper
 date: 2012-12-17
 ---
 Part of my efforts in learning Scala have led to the development of a functional API over

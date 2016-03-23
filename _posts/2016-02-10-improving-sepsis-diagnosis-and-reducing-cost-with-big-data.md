@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Improving Sepsis Diagnosis and Reducing Cost with Big Data
+topic: Improving Sepsis Diagnosis and Reducing Cost with Big Data
 date: 2016-02-10
 ---
 This is a short case study [video](https://www.youtube.com/watch?v=qoFWrODFvlY) Intel produced with Cerner and Cloudera.
