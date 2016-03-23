@@ -82,3 +82,7 @@ a {
   font-family: Monospace;
   font-size: 0.9em;
 }
+
+.post {
+  margin: auto;
+}
