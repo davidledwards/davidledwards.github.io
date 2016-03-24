@@ -9,13 +9,13 @@ type system that seemed to evade comprehension.
 
 Here is the snippet of code from the source. Pay special attention to the method signature.
 
-```scala
+{% highlight scala %}
 def complete: (=> CompletionMagnet) => StandardRoute = magnet => new StandardRoute {
   def apply(ctx: RequestContext) {
     magnet.route(ctx)
   }
 }
-```
+{% endhighlight %}
 
 I believe this could have been simplified and written as follows. Doing so helps clarify my point.
 
