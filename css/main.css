@@ -106,3 +106,7 @@ ul.posts li .date {
 p.date {
   color: #999999;
 }
+
+pre, code {
+  background-color: #cccccc;
+}
