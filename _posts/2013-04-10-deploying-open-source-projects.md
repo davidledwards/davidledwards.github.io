@@ -8,7 +8,7 @@ Over the past year, I’ve spent a fair amount of personal time studying the [Sc
 language, a statically-typed and functional language that runs on the JVM.
 
 An effective means of learning a new language is oftentimes as simple as writing small programs or libraries with well-defined
-boundaries. I’ve shared in a previous [post](http://www.loopfor.com/2012/12/17/a-scala-api-and-cli-for-zookeeper.html) my desire
+boundaries. I’ve shared in a previous [post](http://loopfor.com/2012/12/17/a-scala-api-and-cli-for-zookeeper.html) my desire
 to build a better command line program for ZooKeeper. This work led to developing a more intuitive and functional Scala-based
 API over the ZooKeeper client library. Additionally, I factored out the option parsing code into its own project, primarily
 because of a need for simple option parsing in other areas.
