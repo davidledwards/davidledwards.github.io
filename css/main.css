@@ -99,6 +99,7 @@ ul.posts li {
 
 ul.posts li .date {
   font-family: Monospace;
+  color: #999999;
 }
 
 p.date {
