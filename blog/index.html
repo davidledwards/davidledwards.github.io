@@ -6,7 +6,7 @@ title: David Edwards | Blog
 <ul class="posts">
   {% for post in site.posts %}
   <li>
-    <span id="date">{{ post.date | date_to_string }}</span> :: <a href="{{ post.url }}" title="{{ post.topic }}">{{ post.topic }}</a>
+    <span class="date">{{ post.date | date_to_string }}</span> :: <a href="{{ post.url }}" title="{{ post.topic }}">{{ post.topic }}</a>
   </li>
   {% endfor %}
 </ul>

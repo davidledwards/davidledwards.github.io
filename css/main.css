@@ -97,6 +97,10 @@ ul.posts li {
   margin: 0 0 0.4rem 0;
 }
 
+ul.posts li .date {
+  font-family: Monospace;
+}
+
 p.date {
   color: #999999;
 }
