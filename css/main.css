@@ -82,11 +82,6 @@ a {
   float: right;
 }
 
-#date {
-  font-family: Monospace;
-  font-size: 0.9em;
-}
-
 ul.posts {
   margin: 0;
   padding: 0;
