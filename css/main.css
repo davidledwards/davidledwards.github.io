@@ -75,10 +75,11 @@ a {
   color: #ff0000;
 }
 
-#photo {
+.photo {
   border-radius: 50%;
   max-width: 100%;
   height: auto;
+  margin: auto;
 }
 
 ul.posts {
