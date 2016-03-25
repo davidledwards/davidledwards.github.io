@@ -39,7 +39,6 @@ footer {
   font-size: 0.5em;
   margin-top: 4em;
   margin-top: 4rem;
-  border-top: 1px solid #999999;
   text-align: center;
   color: #999999;
 }
@@ -51,6 +50,10 @@ footer ul {
 
 footer ul li {
   display: inline;
+}
+
+footer.page {
+  border-top: 1px solid #999999;
 }
 
 h1 {
