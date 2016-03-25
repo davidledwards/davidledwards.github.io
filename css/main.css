@@ -52,11 +52,25 @@ footer ul li {
   display: inline;
 }
 
+footer.main {
+}
+
 footer.page {
   border-top: 1px solid #999999;
 }
 
-h1 {
+h1.main {
+  font-size: 4em;
+  font-weight: normal;
+  color: #333333;
+  text-align: center;
+  margin: 0 0 1em 0;
+  margin: 0 0 1rem 0;
+  padding: 0.5em 0 0.5em 0;
+  padding: 0.5rem 0 0.5rem 0;
+}
+
+h1.page {
   font-size: 3em;
   font-weight: normal;
   background-color: #333333;
