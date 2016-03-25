@@ -6,7 +6,6 @@ body {
 }
 
 nav {
-  font-size: 0.9em;
   font-weight: bold;
   color: #999999;
 }
@@ -23,6 +22,15 @@ nav ul li {
 
 nav ul li a {
   color: #999999;
+}
+
+nav.main {
+  text-align: center;
+  font-size: 2.0em;
+}
+
+nav.page {
+  font-size: 0.9em;
 }
 
 footer {
