@@ -102,9 +102,21 @@ h3 {
   color: #0000ff;
 }
 
+h4 {
+  font-size: 1.5em;
+  font-weight: normal;
+  margin: 2em 0 0.5em 0;
+  margin: 2rem 0 0.5rem 0;
+  color: #0000ff;
+}
+
 a {
   text-decoration: none;
   color: #ff0000;
+}
+
+img {
+  border-radius: 5px;
 }
 
 img.photo {
