@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: The Raft Protocol&#58; A Better Paxos?
 date: 2014-01-24
 ---

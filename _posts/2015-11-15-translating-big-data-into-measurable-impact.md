@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: Translating Big Data Into Measurable Impact
 date: 2015-11-15
 ---

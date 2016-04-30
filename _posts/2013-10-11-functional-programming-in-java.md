@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: Functional Programming in Java
 date: 2013-10-11
 ---

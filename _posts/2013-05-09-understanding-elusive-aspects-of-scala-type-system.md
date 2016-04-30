@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: Understanding Elusive Aspects of the Scala Type System
 date: 2013-05-09
 ---

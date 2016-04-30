@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: Practical Ways to Eliminate Loops and Mutable State in Scala Programs
 date: 2012-12-25
 ---

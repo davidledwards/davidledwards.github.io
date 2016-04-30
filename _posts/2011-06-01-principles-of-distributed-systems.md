@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: Principles of Distributed Systems
 date: 2011-06-01
 ---

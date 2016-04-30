@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: The Fallacy of Happy Paths
 date: 2014-05-06
 ---

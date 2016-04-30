@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: Hadoop and Health Care&#58; A Timely Encounter
 date: 2016-01-29
 ---

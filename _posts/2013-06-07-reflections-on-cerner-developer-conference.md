@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: Reflections on Cerner Developer Conference
 date: 2013-06-07
 ---

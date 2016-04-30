@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: Monads and Sequence Comprehensions in Scala
 date: 2014-08-09
 ---

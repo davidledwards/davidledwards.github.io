@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: Writing a Purely Functional Compiler
 date: 2015-06-09
 ---

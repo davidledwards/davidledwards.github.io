@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: A Scalable and Agile Organizational Model
 date: 2012-11-20
 ---

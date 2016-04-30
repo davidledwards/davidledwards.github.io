@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: Visualization of Largest Known Prime Number
 date: 2013-07-23
 ---

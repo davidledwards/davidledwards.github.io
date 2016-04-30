@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Edwards | Blog
+title: David Edwards / Blog
 topic: Deploying Open Source Projects
 date: 2013-04-10
 ---
