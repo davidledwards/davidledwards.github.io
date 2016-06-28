@@ -69,3 +69,36 @@ Other projects can be found on my GitHub [repository](https://github.com/davidle
 * Fitness
 * Exploring new dining experiences
 * Searching for the perfect cocktail
+
+## Travels
+Below are some of the places I have traveled over the course of my life.
+
+* [Vienna, Austria](https://goo.gl/maps/8NxvtDubWQw)
+* [Melk, Austria](https://goo.gl/maps/oe9J21SWP1S2)
+* [Bratislava, Slovakia](https://goo.gl/maps/Pc8vHytjPh62)
+* [Budapest, Hungary](https://goo.gl/maps/1qEmntbCMLQ2)
+* [Bengaluru, India](https://goo.gl/maps/PsxRQUfkstt)
+* [New Delhi, India](https://goo.gl/maps/7i8TWJSJHny)
+* [Jaipur, India](https://goo.gl/maps/SVbPW3H5ETS2)
+* [Agra, India](https://goo.gl/maps/zHhfKagUWTT2)
+* [Kerala, India](https://goo.gl/maps/aU4Y6RGB2Kk)
+* [Shanghai, China](https://goo.gl/maps/uB3z7RAiGdz)
+* [Hong Kong](https://goo.gl/maps/kiQ8AdE5CJ12)
+* [Taipei, Taiwan](https://goo.gl/maps/QrHBBKxSsrz)
+* [Tokyo, Japan](https://goo.gl/maps/nUVM5m3Qk142)
+* [Nagano, Japan](https://goo.gl/maps/9i94ESm5hJs)
+* [Bangkok, Thailand](https://goo.gl/maps/gNaQEqcGErw)
+* [Krabi, Thailand](https://goo.gl/maps/PdsJQGuLcuQ2)
+* [London, England](https://goo.gl/maps/f5NmLU46y3Q2)
+* [Hursley, England](https://goo.gl/maps/L9ZMHvBtKSF2)
+* [Stonehenge, England](https://goo.gl/maps/sDQiTbhevx62)
+* [Amsterdam, Netherlands](https://goo.gl/maps/BuT7xqD2GPC2)
+* [Brussels, Belgium](https://goo.gl/maps/FytQECpaaEC2)
+* [Aachen, Germany](https://goo.gl/maps/LDTXkJU9oAF2)
+* [Cologne, Germany](https://goo.gl/maps/gr5WFYdyBTn)
+* [Cancun, Mexico](https://goo.gl/maps/TfUZy5wahYP2)
+* [Cabo San Lucas, Mexico](https://goo.gl/maps/Dqg3etgUn2o)
+* [British Virgin Islands](https://goo.gl/maps/fd5VHx8RD892)
+* [US Virgin Islands](https://goo.gl/maps/sjh7FNjDRTU2)
+* [Edmonton, Canada](https://goo.gl/maps/RBWsoM7cVU32)
+* [Vancouver, Canada](https://goo.gl/maps/Wv1EvD7Kv6J2)
