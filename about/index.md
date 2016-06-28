@@ -3,20 +3,21 @@ layout: page
 title: David Edwards / About
 ---
 ## Professional
+A complete picture of my professional life can be found [here](https://linkedin.com/in/davidledwards).
 
 #### Cerner
 I am currently a Vice President and Engineering Fellow at [Cerner](http://www.cerner.com), a global health care information
-technology company headquartered in [Kansas City, Missouri](https://goo.gl/maps/g1TaiVfG5BT2). The global reach of our solutions
-now spans more than 30 countries.
+technology company headquartered in [Kansas City, Missouri](https://goo.gl/maps/g1TaiVfG5BT2). The global reach of our
+solutions now spans more than 30 countries.
 
-I have executive responsibility for a very talented application infrastructure group that designs and builds web-scale services
+I have executive responsibility for a very talented software infrastructure group that designs and builds web-scale services
 primarily centered around authentication, authorization, auditing, administration, and petabyte-sized data ingestion and
 processing. In addition to my day job, I spend a significant amount of time focused on strategic technology and architecture
 imperatives with an emphasis on accelerating our transition from traditional enterprise applications to service-based solutions
 and platforms.
 
 I have an extensive background in software development, particularly in the areas of application architecture, scalable
-computing and distributed systems. During my nearly 25 years with Cerner, I have been instrumental in leading the company
+computing and distributed systems. During my 25 years with Cerner, I have been instrumental in leading the company
 through pivotal shifts in technology and architecture, and have also been influential in promoting the use of more
 collaborative and nimble engineering processes.
 
