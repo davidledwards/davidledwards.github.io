@@ -30,18 +30,19 @@ The years that I spent here at Northwest taught me one critical lesson—_how_ t
 tool as you embark on your own journey in life. What you need to know 25 years from now will almost certainly be radically
 different than what you know today.
 
-If you don’t think so… in my field of computer science, this phone I’m holding in my hand is 250 times more powerful than the
-largest computer we had on campus in 1991, which by the way, was serving the entire student population. Technology is rapidly
-disrupting virtually every industry we know, whether it be the way we hail a taxi, the way we think about money, or even the way
-education is delivered. Everything is different now. And, everything will be different tomorrow.
+If you don’t think so... in my field of computer science, this [phone](/images/iphone-6.png) I’m holding in my hand is 250
+times more powerful than the largest computer we had on campus in 1991, which by the way, was serving the entire student
+population. Technology is rapidly disrupting virtually every industry we know, whether it be the way we hail a taxi, the way
+we think about money, or even the way education is delivered. Everything is different now. And, everything will be different
+tomorrow.
 
 My first exposure to computing happened at the ripe age of 10 when my father brought home a fancy new calculator with a
 cutting-edge feature—the ability to be programmed. That seminal moment in my life started a journey that eventually led to my
 enrollment in the computer science program at Northwest.
 
-One of the primary reasons I chose Northwest was that each dormitory room had been equipped with a computer terminal. At that
-time, there were very few universities providing such a service, so Northwest was quite progressive in creating a unique student
-experience as the age of computing was blossoming. The ability to access a computer at any time of the day gave me the
+One of the primary reasons I chose Northwest was that each dormitory room had been equipped with a computer terminal. At that
+time, there were very few universities providing such a service, so Northwest was quite progressive in creating a unique
+student experience as the age of computing was blossoming. The ability to access a computer at any time of the day gave me the
 opportunity to pursue personal learning interests outside of academics. Those personal projects would later prove to be
 instrumental in contributing to a distinguished career as a software engineer.
 
@@ -54,12 +55,12 @@ Funny story… I found out years later that the VP of Engineering—and we only 
 for what he cited as _concerns over my awkwardness and intelligence_. Yes… he was worried that I was too smart for my own good
 and might get bored. But, in the end, he took a chance because saw the passion and the energy.
 
-Less than three months into the job, my manager approached me with the idea of developing a type of software that had never been
-attempted before at Cerner. On the surface, there was very little in my academic background that could have prepared me for this
-particular endeavor. Yet, other than blind ambition, all the tools of success were there. I knew the fundamentals of computer
-science. I had learned _how_ to learn. And, I had an insatiable appetite for learning new things.
+Less than three months into the job, my manager approached me with the idea of developing a type of software that had never
+been attempted before at Cerner. On the surface, there was very little in my academic background that could have prepared me
+for this particular endeavor. Yet, other than blind ambition, all the tools of success were there. I knew the fundamentals of
+computer science. I had learned _how_ to learn. And, I had an insatiable appetite for learning new things.
 
-So, I jumped at the opportunity to do something new and exciting, and went on to spend the better part of that decade building
+So, I jumped at the opportunity to do something new and exciting, and went on to spend the better part of that decade building
 software systems that would play a significant role in making Cerner one of the most successful companies in the health care IT
 industry.
 
@@ -67,8 +68,8 @@ What I discovered is that opportunity is everywhere. However, most of us don’t
 rarely does opportunity present itself without an investment of time and energy. Sometimes we are indeed given opportunities,
 but the most rewarding are those we seek.
 
-I was having a lot of fun designing systems and writing software, but there was another change happening around me that required
-a new set of skills. Those skills, I would contend, are the reason I stand before you today.
+I was having a lot of fun designing systems and writing software, but there was another change happening around me that
+required a new set of skills. Those skills, I would contend, are the reason I stand before you today.
 
 What are those skills? Communication. Relationships. Leadership.
 
@@ -80,17 +81,17 @@ and success. Great ideas are only as good as your ability to influence others to
 for doing that. Communication is not just about writing and speaking as methods of conveying your thoughts, but also about
 listening to and empathizing with others.
 
-I quickly recognized my own need to improve communication skills, so I spent a considerable amount of time practicing the art of
-writing. In fact, I was known to keep a thesaurus on my desk at all times. Today, the physical book may be gone, but there is
-always a virtual rendition open on my laptop.
+I quickly recognized my own need to improve communication skills, so I spent a considerable amount of time practicing the art
+of writing. In fact, I was known to keep a thesaurus on my desk at all times. Today, the physical book may be gone, but there
+is always a virtual rendition open on my laptop.
 
 Any time I have a chance to speak with students, particularly those in science and technology, I strongly urge them to consider
 taking a course in creative writing or public speaking. Plant the seeds of communication early and it will serve you well in
 life.
 
-On relationships… there will almost certainly be a time in your career where the next job or the next opportunity will have more
-to do with a relationship than anything else. Sure, performance and experience matter, but at the end of the day, people desire
-to work with those they trust and those they can relate to.
+On relationships… there will almost certainly be a time in your career where the next job or the next opportunity will have
+more to do with a relationship than anything else. Sure, performance and experience matter, but at the end of the day, people
+desire to work with those they trust and those they can relate to.
 
 Seven years ago, I stepped away from my day-to-day responsibilities to launch an incubator project that would fundamentally
 change the way Cerner designed software. The success of that project hinged on recruiting the right people. Fortunately, the
@@ -109,8 +110,8 @@ earned.
 
 I found myself at a very young age being faced with the prospect of leading teams of software developers. In fact, it just sort
 of happened gradually. But, it happened for a reason. I had earned the trust of executives and peers. Trust comes not only from
-the achievement of results, but also from the willingness to take risks, serving others, and remaining principled in the face of
-adversity.
+the achievement of results, but also from the willingness to take risks, serving others, and remaining principled in the face
+of adversity.
 
 People get appointed to positions of leadership all the time, but that doesn’t necessarily imply that others will follow.
 
@@ -128,7 +129,7 @@ simply have to learn from your mistakes and move on.
 
 Before I wrap up this evening, let me leave you with some simple words of advice as you embark on your own journey in life.
 
-Never stop learning. Our CEO used to say, _in business, you’re either growing or you’re dying_.
+Never stop learning. Our CEO used to say, _in business, you’re either growing or you’re dying_.
 
 Teach yourself _how_ to learn.
 
@@ -145,7 +146,6 @@ Learn how to communicate.
 Keep an open mind about the world and the opportunities it presents.
 
 And finally, give back and teach others.
-
 
 Your career, whatever you decide to seek, is a lifelong journey that I can assure will bring many wonderful surprises. Today,
 we celebrate a very important milestone in that journey.
