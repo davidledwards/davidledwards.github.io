@@ -5,27 +5,37 @@ title: David Edwards / About
 ## Professional
 A complete picture of my professional life can be found [here](https://linkedin.com/in/davidledwards).
 
-#### Cerner
-I am currently a Vice President and Engineering Fellow at [Cerner](http://www.cerner.com), a global health care information
-technology company headquartered in [Kansas City, Missouri](https://goo.gl/maps/g1TaiVfG5BT2). The global reach of our
-solutions now spans more than 30 countries.
+#### Vendavo
 
-I have executive responsibility for a very talented software infrastructure group that designs and builds web-scale services
-primarily centered around authentication, authorization, auditing, administration, and petabyte-sized data ingestion and
-processing. In addition to my day job, I spend a significant amount of time focused on strategic technology and architecture
-imperatives with an emphasis on accelerating our transition from traditional enterprise applications to service-based solutions
-and platforms.
-
-I have an extensive background in software development, particularly in the areas of application architecture, scalable
-computing and distributed systems. During my 25 years with Cerner, I have been instrumental in leading the company
-through pivotal shifts in technology and architecture, and have also been influential in promoting the use of more
-collaborative and nimble engineering processes.
-
-In 2008, I was awarded the Engineering Fellow designation in recognition for a number of distinguished technical contributions.
+##### Since 2016
+I am currently the CTO at [Vendavo](http://www.vendavo.com), a global software and services company headquartered in
+[Mountain View](https://goo.gl/maps/x7dmec9eQur) focused on helping enterprises sell more profitably.
 
 #### SMRxT
-In 2014, I became a technical advisor for an early stage health care startup, [SMRxT](http://smrxt.com), on matters
+
+##### Since 2014
+I am also a technical advisor for an early stage health care startup, [SMRxT](http://smrxt.com), on matters
 related to software architecture, product strategy, information security and regulatory compliance.
+
+#### Cerner
+
+##### 1991 to 2016
+I was previously Vice President and Engineering Fellow at [Cerner](http://www.cerner.com), a global health care information
+technology company headquartered in [Kansas City, Missouri](https://goo.gl/maps/g1TaiVfG5BT2). At the time of my departure,
+the global reach of Cerner solutions spanned more than 30 countries.
+
+Prior to leaving, I had executive responsibility for a very talented software infrastructure group that designed and built
+web-scale services primarily centered around authentication, authorization, auditing, administration, and petabyte-sized data
+ingestion and processing. In addition to my day job, I spent a significant amount of time focused on strategic technology and
+architecture imperatives with an emphasis on accelerating the transition from traditional enterprise applications to
+service-based solutions and platforms.
+
+I have an extensive background in software development, particularly in the areas of application architecture, scalable
+computing and distributed systems. During my 25 years with Cerner, I had been instrumental in leading the company through
+pivotal shifts in technology and architecture, and had also been influential in promoting the use of more collaborative and
+nimble engineering processes.
+
+In 2008, I was awarded the Engineering Fellow designation in recognition for a number of distinguished technical contributions.
 
 ## Personal
 My first exposure to computing happened around the age of 10 when my father brought home an
