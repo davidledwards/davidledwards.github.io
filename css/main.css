@@ -120,7 +120,7 @@ img {
 
 img.photo {
   border-radius: 50%;
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   display: block;
   margin-left: auto;
