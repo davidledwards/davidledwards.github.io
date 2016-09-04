@@ -83,6 +83,8 @@ Other projects can be found on my GitHub [repository](https://github.com/davidle
 ## Travels
 Below are some of the places I have traveled over the course of my life.
 
+* [Prague, Czech Republic](https://goo.gl/maps/uKyN8qxyWH62)
+* [Ostrava, Czech Republic](https://goo.gl/maps/L3nMC8Xb6Gy)
 * [Vienna, Austria](https://goo.gl/maps/8NxvtDubWQw)
 * [Melk, Austria](https://goo.gl/maps/oe9J21SWP1S2)
 * [Bratislava, Slovakia](https://goo.gl/maps/Pc8vHytjPh62)
