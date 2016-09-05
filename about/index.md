@@ -61,6 +61,14 @@ text editors at the time, but this was more about learning and exploring and bui
 single project contributed more to my professional success than any other academic endeavor. Unfortunately, the original source
 code has been misplaced.
 
+I spent about 18 years doing hardcore software engineering, much of that focused on building cross-platform middleware,
+protocols, services, tools, compilers and management applications. Designing middleware around a single code base to run on
+VMS, AIX, Windows and Linux teaches you a lot about portability and how to design systems. I realized much later in my career
+that great software design is a blending of art and science, though for me, it was something that seemed to come naturally.
+Twenty years ago, there were a lot of software engineers that understood how to design systems. Today, it seems like a lost
+art, with the emphasis being more about getting _shit_ out the door and hitting the jackpot rather than taking professional
+pride in the elegance of design.
+
 ## Education
 BS in Computer Science and a minor in Mathematics from [Northwest Missouri State University](http://www.nwmissouri.edu).
 
