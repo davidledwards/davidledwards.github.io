@@ -78,6 +78,15 @@ I spend a bit of my spare time working on a few open source projects written in 
 * [zookeeper](http://loopfor.com/zookeeper)
 * [scalop](http://loopfor.com/scalop)
 
+Another project worth mentioning is a relatively simple [compiler and interpreter](https://github.com/davidledwards/rpn) I
+developed for instructional purposes as part of a Cerner developer conference talk. The goal was getting attendees interested
+in functional programming, so the compiler was implemented in a purely functional style using Scala. I suggested during the
+talk that attendees port the compiler to their favorite functional language. I am currently working on a
+[Haskell implementation](https://github.com/davidledwards/rpn-haskell) as an effective means of learning the language.
+
+* [rpn](https://github.com/davidledwards/rpn)
+* [rpn-haskell](https://github.com/davidledwards/rpn-haskell)
+
 Other projects can be found on my GitHub [repository](https://github.com/davidledwards).
 
 ## Interests
