@@ -100,6 +100,8 @@ Other projects can be found on my GitHub [repository](https://github.com/davidle
 ## Travels
 Below are some of the places I have traveled over the course of my life.
 
+* [Stockholm, Sweden](https://goo.gl/maps/ehfkpwVLvTE2)
+* [Heidelberg, Germany](https://goo.gl/maps/uHj6DLnhQGF2)
 * [Prague, Czech Republic](https://goo.gl/maps/uKyN8qxyWH62)
 * [Ostrava, Czech Republic](https://goo.gl/maps/L3nMC8Xb6Gy)
 * [Vienna, Austria](https://goo.gl/maps/8NxvtDubWQw)
