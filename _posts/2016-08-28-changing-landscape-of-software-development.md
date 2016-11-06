@@ -8,9 +8,9 @@ I stumbled upon a series of [blog posts](http://blog.cognitect.com/blog/?tag=New
 (series starts [here](http://blog.cognitect.com/?offset=1457011971947&tag=NewNormal+Series)) a few
 months ago that really ought to be mandatory reading for anyone in the business of developing
 software. While these posts from [Michael Nygard](http://www.michaelnygard.com/) may appear to be
-written with the software practitioner in mind, I can assure you that his writing is quite approach
-able, and therefore, digestible in most cases by virtually anyone in the value chain of producing
-software.
+written with the software practitioner in mind, I can assure you that his writing is quite
+approachable, and therefore, digestible in most cases by virtually anyone in the value chain of
+producing software.
 
 The main thesis of this series, titled _The New Normal_, is that if IT companies wish to remain
 relevant and competitive in the current landscape, they will need to fundamentally change how they
