@@ -14,8 +14,8 @@ I am currently the CTO at [Vendavo](http://www.vendavo.com), a global software a
 #### SMRxT
 
 ##### Since 2014
-I am also a technical advisor for an early stage health care startup, [SMRxT](http://smrxt.com), on matters
-related to software architecture, product strategy, information security and regulatory compliance.
+I am also an angel investor and technical advisor for an early stage health care startup, [SMRxT](http://smrxt.com), advising
+on matters related to software architecture, product strategy, information security and regulatory compliance.
 
 #### Cerner
 
