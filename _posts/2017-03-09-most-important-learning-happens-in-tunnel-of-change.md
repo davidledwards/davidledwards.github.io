@@ -5,8 +5,8 @@ topic: Our Most Important Learning Happens in the Tunnel of Change
 date: 2017-03-09
 ---
 The prospect of making significant changes in life can be quite daunting for most of us. I found
-myself faced this proposition during the summer of 2016 when I decided to leave my successful and
-lucrative career after 25 years with the same company.
+myself faced with this proposition during the summer of 2016 when I decided to leave my successful
+and lucrative career after 25 years with the same company.
 
 It is distinctly and unabashedly human to naturally gravitate towards the predictability and comfort
 of routine life. Terminating such a cycle requires not only a dance with courage, but also a
