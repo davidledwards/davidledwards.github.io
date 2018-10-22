@@ -9,7 +9,7 @@ A complete picture of my professional life can be found [here](https://linkedin.
 
 ##### Since 2016
 I am currently the CTO at [Vendavo](http://www.vendavo.com), a global software and services company headquartered in
-[Mountain View](https://goo.gl/maps/x7dmec9eQur) focused on helping enterprises sell more profitably.
+[Denver](https://goo.gl/maps/YhCJhNTBw1S2) focused on helping enterprises sell more profitably.
 
 #### SMRxT
 
