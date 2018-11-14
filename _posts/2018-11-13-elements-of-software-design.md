@@ -1,8 +1,8 @@
 ---
 layout: post
 title: David Edwards / Blog
-topic: Microservices
-date: 2018-08-04
+topic: Elements of Software Design
+date: 2018-11-13
 ---
 I recently stumbled upon a book on software design so enthralling that I essentially read the entirety of the
 text in one sitting. To be honest, there were a few dry sections perhaps worthy of skimming, but in general,
