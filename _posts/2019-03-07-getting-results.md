@@ -26,6 +26,6 @@ understand what led to failure.
 Let me be the first to admit that I occasionally find myself defending the absence of attainment by leaning
 on the incredible effort that came before. We all do. It is human nature to protect ourselves.
 
-It also presents an opportunity to recenter myself and reinforce the notion that the _result_ is what
+It also presents an opportunity to recenter ourselves and reinforce the notion that the _result_ is what
 matters. Doing so removes the emotion and opens the mind to different ways of thinking. In essence, these
 events translate to important learning opportunities.
