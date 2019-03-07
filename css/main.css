@@ -53,9 +53,6 @@ footer ul li {
   display: inline;
 }
 
-footer.main {
-}
-
 footer.page {
   border-top: 1px solid #999999;
 }
@@ -63,7 +60,7 @@ footer.page {
 h1.main {
   font-size: 4em;
   font-weight: normal;
-  color: #333333;
+  color: #4D73BE;
   text-align: center;
   margin: 0 0 1em 0;
   margin: 0 0 1rem 0;
@@ -74,7 +71,7 @@ h1.main {
 h1.page {
   font-size: 3em;
   font-weight: normal;
-  background-color: #333333;
+  background-color: #4D73BE;
   color: #ffffff;
   margin: 0 -4em 1em -4em;
   margin: 0 -4rem 1rem -4rem;
@@ -87,12 +84,12 @@ h2 {
   font-weight: normal;
   margin: 2em 0 0.5em 0;
   margin: 2rem 0 0.5rem 0;
-  color: #333333;
+  color: #4D73BE;
 }
 
 h2.not-found {
   text-align: center;
-  color: #ff0000;
+  color: #DF8244;
 }
 
 h3 {
@@ -100,7 +97,7 @@ h3 {
   font-weight: normal;
   margin: 2em 0 0.5em 0;
   margin: 2rem 0 0.5rem 0;
-  color: #0000ff;
+  color: #4D73BE;
 }
 
 h4 {
@@ -108,7 +105,7 @@ h4 {
   font-weight: normal;
   margin: 2em 0 0.5em 0;
   margin: 2rem 0 0.5rem 0;
-  color: #0000ff;
+  color: #4D73BE;
 }
 
 h5 {
@@ -118,7 +115,7 @@ h5 {
 
 a {
   text-decoration: none;
-  color: #3d9970;
+  color: #DF8244;
 }
 
 img {
@@ -152,4 +149,10 @@ ul.posts li .date {
 
 p.date {
   color: #999999;
+}
+
+p.loud {
+  text-align: center;
+  font-size: 2.0em;
+  color: #7EAA55;
 }

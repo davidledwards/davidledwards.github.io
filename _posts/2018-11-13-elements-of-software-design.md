@@ -12,7 +12,8 @@ replacement on my bucket list.
 
 [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201),
 by John Ousterhout, is a book about the fundamental problem of software design, _problem decomposition_,
-which relates to how systems are broken into pieces for the purpose of comprehension. Sounds easy enough, but it turns out to be one of the most perplexing challenges in the software profession.
+which relates to how systems are broken into pieces for the purpose of comprehension. Sounds easy enough, but
+it turns out to be one of the most perplexing challenges in the software profession.
 
 In software development, _complexity_ is your enemy. And, the appearance of our beloved _technical debt_ is
 often attributed to the accrual of complexity over time. This gives us a primal understanding of the origins
