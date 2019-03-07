@@ -32,7 +32,7 @@ experience a sense of dying on the inside.
 
 #### Losing my father
 Oddly enough, lessons from the
-[loss of my father](http://loopfor.com/blog/2016/11/20/tribute-to-my-late-father) began 20 years
+[loss of my father](http://davidedwards.io/blog/2016/11/20/tribute-to-my-late-father) began 20 years
 ago with the untimely death of my mother, who perished at the ripe age of 49 from complications
 of breast cancer. Losing a parent at such a young age reveals the importance of maximizing
 experiences in life and staying connected to family. Despite the unexpected passing of my father,

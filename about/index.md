@@ -75,8 +75,8 @@ BS in Computer Science and a minor in Mathematics from [Northwest Missouri State
 ## Projects
 I spend a bit of my spare time working on a few open source projects written in [Scala](http://www.scala-lang.org).
 
-* [zookeeper](http://loopfor.com/zookeeper)
-* [scalop](http://loopfor.com/scalop)
+* [zookeeper](http://davidedwards.io/zookeeper)
+* [scalop](http://davidedwards.io/scalop)
 
 Another project worth mentioning is a relatively simple [compiler and interpreter](https://github.com/davidledwards/rpn) I
 developed for instructional purposes as part of a Cerner developer conference talk. The goal was getting attendees interested
