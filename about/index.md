@@ -9,7 +9,15 @@ A complete picture of my professional life can be found [here](https://linkedin.
 
 ##### Since 2016
 I am currently the CTO at [Vendavo](http://www.vendavo.com), a global software and services company headquartered in
-[Denver](https://goo.gl/maps/YhCJhNTBw1S2) focused on helping enterprises sell more profitably.
+[Denver](https://goo.gl/maps/YhCJhNTBw1S2) focused on helping enterprises sell more profitably. In a nutshtell, our primary
+goal is to help clients identify and harvest margin opportunities.
+
+I have responsibility for Engineering and User Experience. Even though our headquarters are located in Denver, the
+engineering teams are geographically dispersed--[Dallas](https://goo.gl/maps/AvFHACVURe32),
+[San Jose](https://goo.gl/maps/TYpn6CdYdwC2), [Prague](https://goo.gl/maps/uKyN8qxyWH62),
+[Ostrava](https://goo.gl/maps/L3nMC8Xb6Gy), [Hradec Kralove](https://goo.gl/maps/69ya1kAFNcN2),
+[Stockholm](https://goo.gl/maps/ehfkpwVLvTE2)
+and [Skopje](https://goo.gl/maps/M1KannUcvTv), to be precise.
 
 #### SMRxT
 
@@ -107,6 +115,7 @@ Below are some of the places I have traveled over the course of my life.
 * [Heidelberg, Germany](https://goo.gl/maps/uHj6DLnhQGF2)
 * [Prague, Czech Republic](https://goo.gl/maps/uKyN8qxyWH62)
 * [Ostrava, Czech Republic](https://goo.gl/maps/L3nMC8Xb6Gy)
+* [Hradec Kralove, Czech Republic](https://goo.gl/maps/69ya1kAFNcN2)
 * [Vienna, Austria](https://goo.gl/maps/8NxvtDubWQw)
 * [Melk, Austria](https://goo.gl/maps/oe9J21SWP1S2)
 * [Bratislava, Slovakia](https://goo.gl/maps/Pc8vHytjPh62)
