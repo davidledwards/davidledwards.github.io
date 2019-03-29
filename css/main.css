@@ -156,3 +156,9 @@ p.loud {
   font-size: 2.0em;
   color: #7EAA55;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

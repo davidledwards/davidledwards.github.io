@@ -8,7 +8,7 @@ The photograph below is a stunning view of the [Taipei 101](https://en.wikipedia
 skyscraper located in the heart of Taiwan. During a business trip to Asia in 2006, I had an opportunity to
 tour the building and learn more about the structural attributes not evident to the casual observer.
 
-<img src="/images/taipei-101.jpg" width="70%"/>
+<img src="/images/taipei-101.jpg" class="center" width="70%"/>
 
 Since Taiwan sits squarely on the [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire), the design of
 such a skyscraper would need to withstand frequent and sometimes violent earthquakes as well as strong winds
