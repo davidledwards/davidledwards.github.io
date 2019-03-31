@@ -13,7 +13,7 @@ it becomes to construct simple and intuitive mental models.
 First things first... what does the acronym API mean?
 
 API is shorthand for [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface).
-The second word (_programming_) gives is an important clue–this is an interface that is visible to software
+The second word (_programming_) gives us an important clue–this is an interface that is visible to software
 engineers during the process of programming. The word _interface_ also gives us another clue–you can think
 of this as a connection point where two things come together.
 
