@@ -2,6 +2,7 @@ body {
   font-family: 'Open Sans', Helvetica, sans-serif;
   font-size: 0.9em;
   font-weight: normal;
+  color: #262626;
   margin: 0;
   margin-left: 10%;
   margin-right: 10%;
@@ -117,7 +118,12 @@ h5 {
 
 a {
   text-decoration: none;
-  color: #DF8244;
+  color: #ED7C30;
+}
+
+strong {
+  font-weight: bold;
+  color: #70AD47;
 }
 
 img {
@@ -156,7 +162,7 @@ p.date {
 p.loud {
   text-align: center;
   font-size: 2.0em;
-  color: #7EAA55;
+  color: #70AD47;
 }
 
 .center {
