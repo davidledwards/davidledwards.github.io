@@ -123,6 +123,13 @@ a {
 
 strong {
   font-weight: bold;
+  font-style: normal;
+  color: #70AD47;
+}
+
+em {
+  font-weight: bold;
+  font-style: normal;
   color: #70AD47;
 }
 
