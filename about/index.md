@@ -108,6 +108,9 @@ Other projects can be found on my GitHub [repository](https://github.com/davidle
 ## Travels
 Below are some of the places I have traveled over the course of my life.
 
+* [Florence, Italy](https://goo.gl/maps/ntLhkhb8BGUiCqLP6)
+* [Cinque Terre, Italy](https://goo.gl/maps/urXekruTufdnMjUU9)
+* [Tuscany, Italy](https://goo.gl/maps/hK1q8iYBdLPmNMWu8)
 * [Playa del Carmen, Mexico](https://goo.gl/maps/iGM3AWQk2Xs)
 * [Lisbon, Portugal](https://goo.gl/maps/qNVNR1cBFRr)
 * [Skopje, Macedonia](https://goo.gl/maps/M1KannUcvTv)
