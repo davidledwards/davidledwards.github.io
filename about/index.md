@@ -1,13 +1,14 @@
 ---
-layout: page
-title: David Edwards / About
+layout: default
+title: About
 ---
-## Professional
+<section class="section content" markdown="1">
+<h1 class="title is-3">Professional</h1>
 A complete picture of my professional life can be found [here](https://linkedin.com/in/davidledwards).
 
-#### Vendavo
+<h2 class="title is-4">Vendavo</h2>
+<h3 class="subtitle is-6 has-text-grey">Since 2016</h3>
 
-##### Since 2016
 I am currently the CTO at [Vendavo](http://www.vendavo.com), a global software and services company headquartered in
 [Denver](https://goo.gl/maps/YhCJhNTBw1S2) focused on helping enterprises sell more profitably. In a nutshtell, our primary
 goal is to help clients identify and harvest margin opportunities.
@@ -19,15 +20,13 @@ engineering teams are geographically dispersed--[Dallas](https://goo.gl/maps/AvF
 [Stockholm](https://goo.gl/maps/ehfkpwVLvTE2)
 and [Skopje](https://goo.gl/maps/M1KannUcvTv), to be precise.
 
-#### SMRxT
-
-##### Since 2014
+<h2 class="title is-4">SMRxT</h2>
+<h3 class="subtitle is-6 has-text-grey">Since 2014</h3>
 I am also an angel investor and technical advisor for an early stage health care startup, [SMRxT](http://smrxt.com), advising
 on matters related to software architecture, product strategy, information security and regulatory compliance.
 
-#### Cerner
-
-##### 1991 to 2016
+<h2 class="title is-4">Cerner</h2>
+<h3 class="subtitle is-6 has-text-grey">1991 to 2016</h3>
 I was previously Vice President and Engineering Fellow at [Cerner](http://www.cerner.com), a global health care information
 technology company headquartered in [Kansas City, Missouri](https://goo.gl/maps/g1TaiVfG5BT2). At the time of my departure,
 the global reach of Cerner solutions spanned more than 30 countries.
@@ -45,7 +44,7 @@ nimble engineering processes.
 
 In 2008, I was awarded the Engineering Fellow designation in recognition for a number of distinguished technical contributions.
 
-## Personal
+<h1 class="title is-3">Personal</h1>
 My first exposure to computing happened around the age of 10 when my father brought home an
 [HP-97 calculator](http://www.hpmuseum.org/hp6797.htm), which he used at work to run curve fitting programs to assist in the
 optimization of manufacturing processes.
@@ -77,10 +76,10 @@ Twenty years ago, there were a lot of software engineers that understood how to 
 art, with the emphasis being more about getting _shit_ out the door and hitting the jackpot rather than taking professional
 pride in the elegance of design.
 
-## Education
+<h1 class="title is-3">Education</h1>
 BS in Computer Science and a minor in Mathematics from [Northwest Missouri State University](http://www.nwmissouri.edu).
 
-## Projects
+<h1 class="title is-3">Projects</h1>
 I spend a bit of my spare time working on a few open source projects written in [Scala](http://www.scala-lang.org).
 
 * [zookeeper](http://davidedwards.io/zookeeper)
@@ -97,7 +96,7 @@ talk that attendees port the compiler to their favorite functional language. I a
 
 Other projects can be found on my GitHub [repository](https://github.com/davidledwards).
 
-## Interests
+<h1 class="title is-3">Interests</h1>
 * Distributed systems
 * Functional languages
 * Cycling
@@ -105,7 +104,7 @@ Other projects can be found on my GitHub [repository](https://github.com/davidle
 * Exploring new dining experiences
 * Searching for the perfect cocktail
 
-## Travels
+<h1 class="title is-3">Travels</h1>
 Below are some of the places I have traveled over the course of my life.
 
 * [Florence, Italy](https://goo.gl/maps/ntLhkhb8BGUiCqLP6)
@@ -148,3 +147,4 @@ Below are some of the places I have traveled over the course of my life.
 * [US Virgin Islands](https://goo.gl/maps/sjh7FNjDRTU2)
 * [Edmonton, Canada](https://goo.gl/maps/RBWsoM7cVU32)
 * [Vancouver, Canada](https://goo.gl/maps/Wv1EvD7Kv6J2)
+</section>

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: David Edwards / Blog
+title: Blog
 topic: Lessons Gleaned from a Year of Change
 date: 2016-12-31
 ---
+<div class="content" markdown="1">
 The year of 2016 marked significant change in my life, first with my resignation from Cerner after 25 years, followed by the sudden and unexpected death of my father. The wonderful bit about life is that events, both within and outside our purview of control, usually have silver linings that teach us a thing or two about perseverance and resilience, and living life.
 
 #### Leaving Cerner
@@ -15,3 +16,4 @@ Even though I have no regrets staying with Cerner for such an appreciable part o
 
 #### Losing my father
 Oddly enough, lessons from the [loss of my father](http://davidedwards.io/blog/2016/11/20/tribute-to-my-late-father) began 20 years ago with the untimely death of my mother, who perished at the ripe age of 49 from complications of breast cancer. Losing a parent at such a young age reveals the importance of maximizing experiences in life and staying connected to family. Despite the unexpected passing of my father, we had the great fortune of spending the last 20 years growing a bit closer.
+</div>

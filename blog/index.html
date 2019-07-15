@@ -1,12 +1,13 @@
 ---
-layout: page
-title: David Edwards / Blog
+layout: default
+title: Blog
 ---
-<h2>Posts</h2>
-<ul class="posts">
-  {% for post in site.posts %}
-  <li>
-    <span class="date">{{ post.date | date_to_string }} | </span><a href="{{ post.url }}" title="{{ post.topic }}">{{ post.topic }}</a>
-  </li>
-  {% endfor %}
-</ul>
+<section class="section">
+    <ul>
+      {% for post in site.posts %}
+      <li>
+        <span class="is-family-monospace is-">{{ post.date | date_to_string }} | </span><a href="{{ post.url }}" title="{{ post.topic }}">{{ post.topic }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+</section>

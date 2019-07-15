@@ -1,9 +1,10 @@
 ---
 layout: post
-title: David Edwards / Blog
+title: Blog
 topic: Microservices
 date: 2018-08-04
 ---
+<div class="content" markdown="1">
 The notion of evolvability in the current landscape and frenzied pace of computing is a compelling architectural property that enables product development organizations to respond more quickly to customer and market demands.
 
 Looking across the enterprise landscape, the most common architectural style we see in software systems is some form of a _monolith_. This is not unusual, particularly for startups or established companies developing new products, both of which have a desire to move fast. A startup also has the distinct advantage of having no legacy product that might encumber rapid progress.
@@ -23,3 +24,4 @@ As the size of the system grows, so does the complexity of couplings and interac
 Microservices have become increasingly popular in the software industry especially as infrastructure and tooling has matured, enabling what was operationally challenging for most organizations. The idea of deploying dozens of services, as opposed to a single application, does indeed elevate the operational complexity. But, with virtualized infrastructure and container-orchestration systems, coupled with modern-day deployment automation tooling, those operational challenges are no longer insurmountable.
 
 Ultimately, what we are seeking is faster delivery of innovation and increased responsiveness to market needs. Our ability to move quickly and efficiently is not accidental, but rather the result of intentional efforts in evolving how we build and deliver products.
+</div>

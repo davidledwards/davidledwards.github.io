@@ -1,9 +1,10 @@
 ---
 layout: post
-title: David Edwards / Blog
+title: Blog
 topic: Practical Ways to Eliminate Loops and Mutable State in Scala Programs
 date: 2012-12-25
 ---
+<div class="content" markdown="1">
 I recently [published](http://davidedwards.io/2012/12/17/a-scala-api-and-cli-for-zookeeper.html) the source code for a side project I started with the primary objective of becoming more proficient in the [Scala](http://www.scala-lang.org) programming language, though perhaps the more compelling reason was a growing interest in functional approaches to program design.
 
 I must confess that nowadays I spend a very small fraction of my professional life ensconced in writing code, but as a technology executive, I’ve always been of the firm opinion that maintaining some level of currency on modern topics only enhances your ability to manage your organization and make smarter decisions.
@@ -107,3 +108,4 @@ object Print {
   }
 }
 ```
+</div>
