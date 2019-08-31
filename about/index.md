@@ -6,7 +6,22 @@ title: About
 <h1 class="title is-3">Professional</h1>
 A complete picture of my professional life can be found [here](https://linkedin.com/in/davidledwards).
 
-<h2 class="title is-4">Vendavo</h2>
+<div class="level is-marginless">
+    <div class="level-left">
+        <div class="level-item">
+            <a href="https://www.vendavo.com">
+                <h2 class="title is-4">Vendavo</h2>
+            </a>
+        </div>
+        <div class="level-item">
+            <figure class="image is-24x24 is-marginless">
+                <a href="https://www.vendavo.com">
+                    <img src="/images/vendavo-icon.png">
+                </a>
+            </figure>
+        </div>
+    </div>
+</div>
 <h3 class="subtitle is-6 has-text-grey">Since 2016</h3>
 
 I am currently the CTO at [Vendavo](http://www.vendavo.com), a global software and services company headquartered in
@@ -20,13 +35,45 @@ engineering teams are geographically dispersed--[Dallas](https://goo.gl/maps/AvF
 [Stockholm](https://goo.gl/maps/ehfkpwVLvTE2)
 and [Skopje](https://goo.gl/maps/M1KannUcvTv), to be precise.
 
-<h2 class="title is-4">SMRxT</h2>
+<div class="level is-marginless">
+    <div class="level-left">
+        <div class="level-item">
+            <a href="https://www.smrxt.com">
+                <h2 class="title is-4">SMRxT</h2>
+            </a>
+        </div>
+        <div class="level-item">
+            <figure class="image is-24x24 is-marginless">
+                <a href="https://www.smrxt.com">
+                    <img src="/images/smrxt-icon.png">
+                </a>
+            </figure>
+        </div>
+    </div>
+</div>
 <h3 class="subtitle is-6 has-text-grey">Since 2014</h3>
-I am also an angel investor and technical advisor for an early stage health care startup, [SMRxT](http://smrxt.com), advising
+
+I am also an angel investor and technical advisor for an early stage health care startup, [SMRxT](http://www.smrxt.com), advising
 on matters related to software architecture, product strategy, information security and regulatory compliance.
 
-<h2 class="title is-4">Cerner</h2>
+<div class="level is-marginless">
+    <div class="level-left">
+        <div class="level-item">
+            <a href="https://www.cerner.com">
+                <h2 class="title is-4">Cerner</h2>
+            </a>
+        </div>
+        <div class="level-item">
+            <figure class="image is-24x24 is-marginless">
+                <a href="https://www.cerner.com">
+                    <img src="/images/cerner-icon.png">
+                </a>
+            </figure>
+        </div>
+    </div>
+</div>
 <h3 class="subtitle is-6 has-text-grey">1991 to 2016</h3>
+
 I was previously Vice President and Engineering Fellow at [Cerner](http://www.cerner.com), a global health care information
 technology company headquartered in [Kansas City, Missouri](https://goo.gl/maps/g1TaiVfG5BT2). At the time of my departure,
 the global reach of Cerner solutions spanned more than 30 countries.
