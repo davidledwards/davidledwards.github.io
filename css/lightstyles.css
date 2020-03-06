@@ -291,7 +291,7 @@ button,
 input,
 select,
 textarea {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+  font-family: "Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
 
 code,
 pre {
@@ -834,13 +834,13 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   font-weight: 700 !important; }
 
 .is-family-primary {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
 
 .is-family-secondary {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
 
 .is-family-sans-serif {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
 
 .is-family-monospace {
   font-family: monospace !important; }
