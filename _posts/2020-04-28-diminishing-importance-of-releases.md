@@ -5,6 +5,7 @@ topic: The Diminishing Importance of Releases
 date: 2020-04-28
 ---
 <div class="content" markdown="1">
+
 One of the notable carryovers from the days of building on-premises enterprise software is the concept of a **release**. I would argue that widely held beliefs regarding the importance of a release are rooted in tradition and require rethinking in the age of cloud-native software products.
 
 In a very general sense, a release is essentially a bundle of software artifacts that, when installed and configured, provide a set of features and capabilities to users. Each subsequent release often includes new features that distinguish itself from the prior release, ideally in a value-differentiating manner, thus creating a reason to upgrade whether done by carrot or by stick.
