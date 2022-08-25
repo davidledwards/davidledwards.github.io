@@ -17,13 +17,13 @@ A person of simple needs and desires, he was a salty old dog, preferring to spen
     <img src="/images/dad-bora-bora-bungalow.jpg" style="width:50%">
 </figure>
 
-He spent 35 years sailing and racing his beloved [Lightning](http://www.lightningclass.org) on [Lake Jacomo](https://goo.gl/maps/6a1Z1acdQ5J2), but that only qualified for a fraction of his adventures. Twice, in his late fifties, he sailed solo from the coast of Florida to [The Bahamas](https://goo.gl/maps/pgAohJtTWTD2). Even seasoned skippers proclaimed that he had a death wish sailing a 19-foot centerboard across the Gulf Stream. Despite borderline insanity, he survived those harrowing adventures and became a legend at Lake Jacomo and the local watering holes in The Bahamas.
+He spent 35 years sailing and racing his beloved [Lightning](https://www.lightningclass.org) on [Lake Jacomo](https://goo.gl/maps/6a1Z1acdQ5J2), but that only qualified for a fraction of his adventures. Twice, in his late fifties, he sailed solo from the coast of Florida to [The Bahamas](https://goo.gl/maps/pgAohJtTWTD2). Even seasoned skippers proclaimed that he had a death wish sailing a 19-foot centerboard across the Gulf Stream. Despite borderline insanity, he survived those harrowing adventures and became a legend at Lake Jacomo and the local watering holes in The Bahamas.
 
 <figure class="image">
     <img src="/images/dad-boat-lightning.jpg" style="width:50%">
 </figure>
 
-His senior years brought about a change in pace, leading to the purchase of a [Colgate 26](http://tayloryachtdesigns.com/designs/colgate-26/). This boat was designed for training, comfortably seating ten people and, not surprisingly, ideal for socializing. In retirement, my father was always available to help new students curious about the joy of sailing. His Colgate 26 was a perfect platform for teaching.
+His senior years brought about a change in pace, leading to the purchase of a [Colgate 26](https://tayloryachtdesigns.com/designs/colgate-26/). This boat was designed for training, comfortably seating ten people and, not surprisingly, ideal for socializing. In retirement, my father was always available to help new students curious about the joy of sailing. His Colgate 26 was a perfect platform for teaching.
 
 <figure class="image">
     <img src="/images/dad-boat-colgate.jpg" style="width:50%">

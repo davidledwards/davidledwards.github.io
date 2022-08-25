@@ -12,7 +12,7 @@ First things first... what does the acronym API mean?
 
 API is shorthand for [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface). The second word (_programming_) gives us an important clue–this is an interface that is visible to software engineers during the process of programming. The word _interface_ also gives us another clue–you can think of this as a connection point where two things come together.
 
-The notion of an API is indeed not a new concept in software design. The idea in relation to software dates back to the beginnings of computing and especially during the introduction of high-level programming languages. It is a basic building block in the design of software systems. The ubiquity of Internet protocols, coupled with the principles of the web ([small pieces loosely joined](http://www.smallpieces.com/)), created the perfect storm for truly leveraging the purported benefits of APIs. It is not uncommon these
+The notion of an API is indeed not a new concept in software design. The idea in relation to software dates back to the beginnings of computing and especially during the introduction of high-level programming languages. It is a basic building block in the design of software systems. The ubiquity of Internet protocols, coupled with the principles of the web ([small pieces loosely joined](https://www.smallpieces.com/)), created the perfect storm for truly leveraging the purported benefits of APIs. It is not uncommon these
 days to hear software companies talk about being _API-first_ or _API-centric_.
 
 If you remember only one thing, remember this... **an API is essentially a contract between a consumer and a provider**.

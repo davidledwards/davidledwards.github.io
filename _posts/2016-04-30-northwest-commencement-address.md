@@ -5,9 +5,9 @@ topic: Northwest Missouri State University Commencement Address
 date: 2016-04-30
 ---
 <div class="content" markdown="1">
-Last night, I had the pleasure of [delivering the commencement address](http://www.nwmissouri.edu/media/news/2016/04/29commencement-graduate.htm) to several hundred graduate students at my alma mater, [Northwest Missouri State University](http://www.nwmissouri.edu).
+Last night, I had the pleasure of [delivering the commencement address](https://www.nwmissouri.edu/media/news/2016/04/29commencement-graduate.htm) to several hundred graduate students at my alma mater, [Northwest Missouri State University](https://www.nwmissouri.edu).
 
-It was an honor to receive an invitation after 25 years, thanks in many respects to [Dr. Carol Spradling](http://www.nwmissouri.edu/mathcsis/directory/spradling.htm) whom I had met during my own undergraduate studies. And, much appreciation goes to the University President, [Dr. John Jasinski](http://www.nwmissouri.edu/aboutus/president/), for reaching out personally to extend the invitation.
+It was an honor to receive an invitation after 25 years, thanks in many respects to [Dr. Carol Spradling](https://www.nwmissouri.edu/mathcsis/directory/spradling.htm) whom I had met during my own undergraduate studies. And, much appreciation goes to the University President, [Dr. John Jasinski](https://www.nwmissouri.edu/aboutus/president/), for reaching out personally to extend the invitation.
 
 A transcript of the address follows.
 

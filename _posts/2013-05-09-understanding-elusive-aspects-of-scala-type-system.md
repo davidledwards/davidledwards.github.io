@@ -5,7 +5,7 @@ topic: Understanding Elusive Aspects of the Scala Type System
 date: 2013-05-09
 ---
 <div class="content" markdown="1">
-During the course of studying the inner workings of the [Spray DSL](http://spray.io), I stumbled upon a feature in the Scala type system that seemed to evade comprehension.
+During the course of studying the inner workings of the [Spray DSL](https://spray.io), I stumbled upon a feature in the Scala type system that seemed to evade comprehension.
 
 Here is the snippet of code from the source. Pay special attention to the method signature.
 
