@@ -7,7 +7,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "bulma": "^0.9.4",
-    "node-sass": "^7.0.0"
+    "node-sass": "^8.0.0"
   },
   "scripts": {
     "css-build": "node-sass --omit-source-map-url lightstyles.scss ../css/lightstyles.css; node-sass --omit-source-map-url darkstyles.scss ../css/darkstyles.css",
