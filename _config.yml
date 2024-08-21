@@ -1,5 +1,7 @@
 name: David Edwards
-markdown: kramdown
+timezone: America/Chicago
+encoding: utf-8
 permalink: /blog/:year/:month/:day/:title
 exclude: [/CNAME, /README.md]
-timezone: America/Chicago
+plugins:
+  - jekyll-sitemap
