@@ -37,4 +37,5 @@ Second, imagine you have a new feature in development that is not yet available 
 Third, product teams operating in a mode of continuous integration and continuous delivery no longer need to maintain long-lived feature branches. They simply develop the feature incrementally, continuously committing changes that get deployed into production, and accumulating to a point where the feature is eventually enabled for customers and users.
 
 The shift away from _the release_ as the machinery for enabling features towards software-based mechanisms will certainly require additional work for product and engineering teams. However, the long-term benefits should be abundantly clear. The continued tight coupling between release and feature availability will inevitably hinder efforts aimed at optimizing the continuous delivery of software.
+
 </div>

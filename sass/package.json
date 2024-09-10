@@ -6,12 +6,10 @@
   "author": "david.l.edwards@gmail.com",
   "license": "Apache-2.0",
   "devDependencies": {
-    "bulma": "^0.9.4",
-    "node-sass": "^8.0.0"
+    "bulma": "^1.0.2",
+    "sass": "^1.78.0"
   },
   "scripts": {
-    "css-build": "node-sass --omit-source-map-url lightstyles.scss ../css/lightstyles.css; node-sass --omit-source-map-url darkstyles.scss ../css/darkstyles.css",
-    "css-watch": "npm run css-build -- --watch",
-    "start": "npm run css-watch"
+    "build": "sass --load-path=node_modules --no-source-map styles.scss ../css/styles.css"
   }
 }

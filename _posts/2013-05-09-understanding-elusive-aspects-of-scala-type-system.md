@@ -5,6 +5,7 @@ topic: Understanding Elusive Aspects of the Scala Type System
 date: 2013-05-09
 ---
 <div class="content" markdown="1">
+
 During the course of studying the inner workings of the [Spray DSL](https://spray.io), I stumbled upon a feature in the Scala type system that seemed to evade comprehension.
 
 Here is the snippet of code from the source. Pay special attention to the method signature.
@@ -98,4 +99,5 @@ complete {
 The type of this user-defined block of code, when evaluated, is `scala.xml.NodeSeq`, not `CompletionMagnet`, which is specified in the definition of `complete`. As one would expect, there is an implicit method in scope that converts any object into an instance of `CompletionMagnet`, making it suitable for calling `complete`. Otherwise, the compiler would yell. But, the value being implicitly converted is a by-name function that has yet to be evaluated. It turns out this is okay, because the compiler knows the value of the block, and hence, can search for a suitable implicit to perform the conversion. You just have to ensure the block is not evaluated (referenced) prematurely, which is the case with `complete`–`magnet` is not referenced until the `apply` method is called on the anonymous instance of `StandardRoute`.
 
 Part of the difficulty in understanding the Scala type system is the language syntax and the heavy use of implicits that are often necessary when building a DSL. My suggestion is to study these libraries and DSLs in greater detail, which will give you a much better appreciation of how things work.
+
 </div>

@@ -5,6 +5,7 @@ topic: The Changing Landscape of Software Development
 date: 2016-08-28
 ---
 <div class="content" markdown="1">
+
 I stumbled upon a series of [blog posts](https://blog.cognitect.com/blog/?tag=NewNormal+Series) a few months ago that really ought to be mandatory reading for anyone in the business of developing software. While these posts from [Michael Nygard](https://www.michaelnygard.com/) may appear to be written with the software practitioner in mind, I can assure you that his writing is quite approachable, and therefore, digestible in most cases by virtually anyone in the value chain of producing software.
 
 The main thesis of this series, titled _The New Normal_, is that if IT companies wish to remain relevant and competitive in the current landscape, they will need to fundamentally change how they build and deliver software. The economics of software have changed so dramatically in recent years that new tools and techniques make it possible to do what was once considered impossible.
@@ -18,4 +19,5 @@ Perhaps one of the most insightful assertions in the entire series was the idea 
 Later in the series, Nygard talks about the importance of team-scale autonomy as a critical component of moving fast and being responsive. The underpinnings of such autonomy include, among other building blocks, an adaptive and evolutionary architecture, isolated failure domains, and behaviors and processes that enable continuous delivery.
 
 If this series is not on your reading list, then you will almost certainly be missing out on some important ideas that just might change the way you think about software design in the future.
+
 </div>

@@ -20,17 +20,29 @@ During the course of hacking on the Arduino, I decided to build something real. 
 
 And, then there was the final assembly, which turned out to be more work than anticipated. But, of course, that is the whole point about learning.
 
-<figure class="image">
-  <img src="/images/gps-clock-front.jpg" style="width:80%">
-</figure>
+<div class="columns is-mobile is-centered">
+    <div class="column is-two-thirds">
+        <figure class="image">
+          <img src="/images/gps-clock-front.jpg"/>
+        </figure>
+    </div>
+</div>
 
-<figure class="image">
-  <img src="/images/gps-clock-back.jpg" style="width:80%">
-</figure>
+<div class="columns is-mobile is-centered">
+    <div class="column is-one-third">
+        <figure class="image">
+        <img src="/images/gps-clock-back.jpg"/>
+        </figure>
+    </div>
+</div>
 
-<figure class="image">
-  <img src="/images/gps-clock-running.jpg" style="width:80%">
-</figure>
+<div class="columns is-mobile is-centered">
+    <div class="column is-one-third">
+        <figure class="image">
+        <img src="/images/gps-clock-running.jpg"/>
+        </figure>
+    </div>
+</div>
 
 Look, the idea of building a clock may seem like an utter waste of time for many, but the end goal is not really about the clock, it is about exercising the brain. The completion of the clock, of course, is critical because it means a bunch of dots were connected in the process.
 

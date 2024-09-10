@@ -22,7 +22,8 @@ jekyll clean
 
 This website is styled using [Bulma](https://bulma.io).
 
-In order to generate **light** and **dark** mode CSS files, follow these [instructions for modifying the Bulma theme](https://bulma.io/documentation/customize/with-node-sass/). Source files are located in the `sass` directory.
+Follow these [instructions for modifying the Bulma theme](https://bulma.io/documentation/customize/with-node-sass/). Source files are located in the `sass` directory.
 
 ## License
-Copyright © 2020 David Edwards
+
+Copyright © 2024 David Edwards

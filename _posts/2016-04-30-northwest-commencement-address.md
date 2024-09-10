@@ -5,17 +5,23 @@ topic: Northwest Missouri State University Commencement Address
 date: 2016-04-30
 ---
 <div class="content" markdown="1">
+
 Last night, I had the pleasure of [delivering the commencement address](https://www.nwmissouri.edu/media/news/2016/04/29commencement-graduate.htm) to several hundred graduate students at my alma mater, [Northwest Missouri State University](https://www.nwmissouri.edu).
 
 It was an honor to receive an invitation after 25 years, thanks in many respects to [Dr. Carol Spradling](https://www.nwmissouri.edu/mathcsis/directory/spradling.htm) whom I had met during my own undergraduate studies. And, much appreciation goes to the University President, [Dr. John Jasinski](https://www.nwmissouri.edu/aboutus/president/), for reaching out personally to extend the invitation.
 
 A transcript of the address follows.
 
-<figure class="image">
-    <img src="/images/commencement-address.png" style="width:50%">
-</figure>
+<div class="columns is-mobile is-centered">
+    <div class="column is-half">
+        <figure class="image">
+            <img src="/images/commencement-address.png"/>
+        </figure>
+    </div>
+</div>
 
 #### Commencement Address
+
 I’d like to start this evening by thanking the wonderful people at Northwest for extending an invitation to deliver the commencement address. I’m humbled by the offer and honored to be in your presence.
 
 Twenty five years ago, I sat where you are, eagerly awaiting my transition from what seemed like an endless era of class rooms, study groups, semester projects and exams, to a new life of compelling and meaningful work. I was thrilled with the idea of closing that chapter and redirecting my energy towards earning income and building a successful career.
@@ -97,3 +103,5 @@ Your career, whatever you decide to seek, is a lifelong journey that I can assur
 I wish all of you the best of luck while pursuing your dreams. Just remember to have fun along the way.
 
 Thank you.
+
+</div>

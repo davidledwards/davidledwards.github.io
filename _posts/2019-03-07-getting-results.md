@@ -5,9 +5,12 @@ topic: Getting Results
 date: 2019-03-07
 ---
 <div class="content" markdown="1">
+
 A timeless piece of advice I happened to receive during the early years of my career went something on the order of...
 
-<p class="is-size-3 has-text-centered">Results matter, not effort!</p>
+<p class="is-size-3 has-text-centered">
+    Results matter, not effort!
+</p>
 
 That certainly sounds like someone could care less about the blood, sweat and tears that I would undoubtedly shed along the journey of achieving results.
 
@@ -18,4 +21,5 @@ This point of view may appear draconian, dismissing the human emotion stemming f
 Let me be the first to admit that I occasionally find myself defending the absence of attainment by leaning on the incredible effort that came before. We all do. It is human nature to protect ourselves.
 
 It also presents an opportunity to recenter ourselves and reinforce the notion that the _result_ is what matters. Doing so removes the emotion and opens the mind to different ways of thinking. In essence, these events translate to important learning opportunities.
+
 </div>

@@ -5,6 +5,7 @@ topic: The Paradoxical Nature of Software
 date: 2018-04-22
 ---
 <div class="content" markdown="1">
+
 #### Software is a strange thing
 
 Companies rightfully classify the software they create as intellectual property. Those trade secrets, which originate in the form of source code, are compiled and packaged into products and solutions that fulfill some buyer need in the markets for which they compete. In the purest sense, software is the materialization of knowledge.
@@ -48,4 +49,5 @@ In the late 1990s, the general consensus of the software industry was that the a
 The important lesson in all of this is that we should write code to be **disposable**.
 
 This means designing modular architectures where components can be easily replaced. We have 50 years of empirical evidence in the computing industry suggesting that software does indeed decay as time passes. By embracing this fundamental truth, the most prudent thing we can do is design software systems with the expectation that portions will be thrown away in the future.
+
 </div>
