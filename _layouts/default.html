@@ -1,70 +1,70 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="author" content="David Edwards"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" type="text/css" href="/css/styles.css"/>
-    <link rel="stylesheet" type="text/css" href="/css/syntax.css"/>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik"/>
-    <link rel="icon" type="image/png" href="/images/de-icon.png"/>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-80543800-1"></script>
-    <script src="/scripts/gtag.js"></script>
-    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
-    <script src="/scripts/navbar.js"></script>
-    <script async defer src="https://platform.linkedin.com/badges/js/profile.js"></script>
-  </head>
-  <body class="has-navbar-fixed-top">
-    <nav class="navbar is-fixed-top has-background-grey-lighter" role="navigation" aria-label="main navigation">
-        <div class="container has-text-weight-bold">
-          <div class="navbar-brand">
-            <a class="navbar-item" href="https://davidedwards.io">
-              <img src="/images/de-icon.png">
-            </a>
-            <p class="navbar-item has-text-grey is-uppercase">
-              {{ page.title }}
-            </p>
-            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
-              <span aria-hidden="true"></span>
-              <span aria-hidden="true"></span>
-              <span aria-hidden="true"></span>
-            </a>
-          </div>
-          <div id="navbarMenu" class="navbar-menu">
-            <div class="navbar-end">
-              <a class="navbar-item" href="/about">
-                About
-              </a>
-              <a class="navbar-item" href="/blog">
-                Blog
-              </a>
-              <a class="navbar-item" href="https://linkedin.com/in/davidledwards">
-                LinkedIn
-              </a>
-              <a class="navbar-item" href="https://instagram.com/david.l.edwards">
-                Instagram
-              </a>
-              <a class="navbar-item" href="https://github.com/davidledwards">
-                GitHub
-              </a>
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="David Edwards"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" type="text/css" href="/css/styles.css"/>
+        <link rel="stylesheet" type="text/css" href="/css/syntax.css"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik"/>
+        <link rel="icon" type="image/png" href="/images/de-icon.png"/>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-80543800-1"></script>
+        <script src="/scripts/gtag.js"></script>
+        <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+        <script src="/scripts/navbar.js"></script>
+        <script async defer src="https://platform.linkedin.com/badges/js/profile.js"></script>
+    </head>
+    <body class="has-navbar-fixed-top">
+        <nav class="navbar is-fixed-top has-background-grey-lighter" role="navigation" aria-label="main navigation">
+            <div class="container has-text-weight-bold">
+                <div class="navbar-brand">
+                    <a class="navbar-item" href="/">
+                        <img src="/images/de-icon.png">
+                    </a>
+                    <p class="navbar-item has-text-grey is-uppercase">
+                        {{ page.title }}
+                    </p>
+                    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+                </div>
+                <div id="navbarMenu" class="navbar-menu">
+                    <div class="navbar-end">
+                        <a class="navbar-item" href="/about">
+                            About
+                        </a>
+                        <a class="navbar-item" href="/blog">
+                            Blog
+                        </a>
+                        <a class="navbar-item" href="https://linkedin.com/in/davidledwards">
+                            LinkedIn
+                        </a>
+                        <a class="navbar-item" href="https://instagram.com/david.l.edwards">
+                            Instagram
+                        </a>
+                        <a class="navbar-item" href="https://github.com/davidledwards">
+                            GitHub
+                        </a>
+                    </div>
+                </div>
             </div>
-          </div>
+        </nav>
+        <div class="columns is-mobile">
+            <div class="column"></div>
+            <div class="column is-two-thirds">
+                {{ content }}
+            </div>
+            <div class="column"></div>
         </div>
-      </nav>
-    <div class="columns is-mobile">
-      <div class="column"></div>
-      <div class="column is-four-fifths">
-        {{ content }}
-      </div>
-      <div class="column"></div>
-    </div>
-    <footer class="footer has-background-white-ter">
-      <div class="content has-text-centered is-small">
-        <p class="has-text-grey has-text-weight-bold">
-          Copyright &copy; 2020 David Edwards
-        </p>
-      </div>
-    </footer>
-  </body>
+        <footer class="footer has-background-white-ter">
+            <div class="content has-text-centered is-small">
+                <p class="has-text-grey has-text-weight-bold">
+                    Copyright &copy; 2024 David Edwards
+                </p>
+            </div>
+        </footer>
+    </body>
 </html>
