@@ -14,14 +14,6 @@ Consider this scenario...
 
 Suppose you have been commissioned to design a building that will start with a single floor, but the expectation is that additional floors will be erected as demand warrants. As one can imagine, the architectural considerations will be markedly different than those pertinent to, say, a structure with twenty floors. A twenty-floor building would likely require that foundational pillars penetrate the earth much deeper, installation of elevators to efficiently transport people between floors, and the presence of safety systems for quick evacuation in the event of an emergency.
 
-<div class="columns is-mobile is-centered">
-    <div class="column is-half">
-        <figure class="image">
-            <img src="/images/building-sketch.png"/>
-        </figure>
-    </div>
-</div>
-
 In the interest of realizing early returns on investment, do you forego the architectural requirements of a twenty-floor building and focus instead on a single-floor design?
 
 In the field of structural engineering, such a choice would be financially disastrous because the implication of retrofitting new architectural requirements would probably entail demolition of the existing building.
