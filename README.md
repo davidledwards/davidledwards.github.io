@@ -22,7 +22,7 @@ jekyll clean
 
 This website is styled using [Bulma](https://bulma.io).
 
-Follow these [instructions for modifying the Bulma theme](https://bulma.io/documentation/customize/with-node-sass/). Source files are located in the `sass` directory.
+Follow these [instructions for modifying the Bulma theme](https://bulma.io/documentation/customize/with-sass/). Source files are located in the `sass` directory.
 
 ## License
 
