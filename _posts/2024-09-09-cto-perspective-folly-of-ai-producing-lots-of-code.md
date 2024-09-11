@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-topic: CTO Perspective - The Folly of AI Producing Lots of Code
+topic: 'CTO Perspective: The Folly of AI Producing Lots of Code'
 date: 2024-09-09
 ---
 <div class="content" markdown="1">
