@@ -18,7 +18,7 @@ This [article](https://uxdesign.cc/stop-solving-product-problems-start-solving-c
 
 His primary thesis is that the majority of product organizations are oriented around feature production rather than solving customer problems. In other words, the *product* becomes the focal point, not the needs of customers. To be clear, focusing on customer problems does not imply that software companies should be in the business of doing whatever customers ask. It simply means that the north star should be aligned to solving customer problems. Products follow.
 
-This seems like a tireless debate, so I asked myself *why organizations struggle to change* despite knowing this approach, in theory, yields better results. That statement is my own assetion. Who knows whether results improve? Perhaps this is just an academic argument?
+This seems like a tireless debate, so I asked myself *why organizations struggle to change* despite knowing this approach, in theory, yields better results. That statement is my own assertion. Who knows whether results improve? Perhaps this is just an academic argument?
 
 My curiosity is understanding the psychology of product teams and why they systemically operate as *feature factories* instead of *problem solvers*. Only then would it be possible to change behavior if desired.
 
@@ -30,6 +30,6 @@ In contrast, when *outcome* is measured, features are sort of relegated to secon
 
 Of course, this is the duality of product development, which is inherently a creative function. There is nondeterminism built in. We cannot think of creativity and certainty in absolute terms. They are opposing forces that must find an equilibrium. If product design and software development were like an assembly line cranking out the same widget each time, then measuring output makes sense. Clearly, the notion of solving customer problems does not fit into that category of thinking.
 
-I suppose the existential takeaway is that software companies will ultimately measure what they value. If incentives and rewards are aligned around certainty and the production of things, then measuring *output* makes sense. This is not meant to be a judgment in any way, but rather to create awareness of the inherent dichotomy of behaviors between *solving product problems* and *solving customer problems*.
+I suppose the existential takeaway is that software companies will ultimately measure what they value. If incentives and rewards are aligned around certainty and the production of things, then measuring *output* makes sense. This is not necessarily meant to be a judgment, but rather aimed at creating awareness of the inherent dichotomy of behaviors between *solving product problems* and *solving customer problems*.
 
 </div>
