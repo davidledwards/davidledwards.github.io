@@ -47,8 +47,8 @@
   --bulma-scheme-invert-ter-l: 14%;
   --bulma-scheme-invert-bis-l: 7%;
   --bulma-scheme-invert-l: 4%;
-  --bulma-family-primary: "Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  --bulma-family-secondary: "Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  --bulma-family-primary: Rubik, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --bulma-family-secondary: Rubik, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --bulma-family-code: Inconsolata, Hack, SF Mono, Roboto Mono, Source Code Pro, Ubuntu Mono, monospace;
   --bulma-size-small: 0.75rem;
   --bulma-size-normal: 1rem;
@@ -948,8 +948,8 @@
     --bulma-scheme-invert-ter-l: 14%;
     --bulma-scheme-invert-bis-l: 7%;
     --bulma-scheme-invert-l: 4%;
-    --bulma-family-primary: "Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    --bulma-family-secondary: "Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    --bulma-family-primary: Rubik, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --bulma-family-secondary: Rubik, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     --bulma-family-code: Inconsolata, Hack, SF Mono, Roboto Mono, Source Code Pro, Ubuntu Mono, monospace;
     --bulma-size-small: 0.75rem;
     --bulma-size-normal: 1rem;
@@ -1866,8 +1866,8 @@
   --bulma-scheme-invert-ter-l: 14%;
   --bulma-scheme-invert-bis-l: 7%;
   --bulma-scheme-invert-l: 4%;
-  --bulma-family-primary: "Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  --bulma-family-secondary: "Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  --bulma-family-primary: Rubik, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --bulma-family-secondary: Rubik, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --bulma-family-code: Inconsolata, Hack, SF Mono, Roboto Mono, Source Code Pro, Ubuntu Mono, monospace;
   --bulma-size-small: 0.75rem;
   --bulma-size-normal: 1rem;
@@ -21033,15 +21033,15 @@ has-background-danger.is-hoverable:active {
 }
 
 .is-family-primary {
-  font-family: '"Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif' !important;
+  font-family: 'Rubik, "Segoe UI", Roboto, Helvetica, Arial, sans-serif' !important;
 }
 
 .is-family-secondary {
-  font-family: '"Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif' !important;
+  font-family: 'Rubik, "Segoe UI", Roboto, Helvetica, Arial, sans-serif' !important;
 }
 
 .is-family-sans-serif {
-  font-family: '"Rubik", "Helvetica Neue", "Helvetica", "Arial", sans-serif' !important;
+  font-family: 'Rubik, "Segoe UI", Roboto, Helvetica, Arial, sans-serif' !important;
 }
 
 .is-family-monospace {
