@@ -1,0 +1,10 @@
+{
+  "name": "davidledwards-github-io",
+  "version": "1.0.0",
+  "description": "David Edwards Personal Website",
+  "author": "david.l.edwards@gmail.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bulma": "^1.0.4"
+  }
+}

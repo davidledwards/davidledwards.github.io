@@ -3,4 +3,5 @@
 .jekyll-cache/
 _site/
 .vscode/
-sass/node_modules/
+node_modules/
+package-lock.json

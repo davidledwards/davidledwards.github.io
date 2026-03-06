@@ -2,6 +2,9 @@ name: David Edwards
 timezone: America/Chicago
 encoding: utf-8
 permalink: /blog/:year/:month/:day/:title
-exclude: [/CNAME, /README.md]
+exclude: [/CNAME, /README.md, /package.json, /package-lock.json, /node_modules]
+sass:
+  load_paths:
+    - node_modules
 plugins:
   - jekyll-sitemap
