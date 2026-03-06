@@ -14,6 +14,7 @@ The site is hosted on GitHub Pages, which automatically builds the Jekyll site w
 
 ## Project Structure
 - `_config.yml`: Jekyll configuration, including SASS load paths for `node_modules`.
+- `.github/workflows/deploy.yml`: GitHub Actions workflow for building and deploying the site.
 - `_posts/`: Markdown files for blog entries (naming convention: `YYYY-MM-DD-title.md`).
 - `_layouts/`: HTML templates (e.g., `default.html`, `post.html`).
 - `css/`:
@@ -21,8 +22,8 @@ The site is hosted on GitHub Pages, which automatically builds the Jekyll site w
   - `syntax.css`: Syntax highlighting styles.
 - `images/`: Static assets (images, icons).
 - `scripts/`: Client-side JavaScript (navbar toggles, analytics).
-- `package.json`: Manages frontend dependencies (Bulma).
-- `Gemfile`: Manages Ruby dependencies (Jekyll, jekyll-sitemap).
+- `package.json` & `package-lock.json`: Manages frontend dependencies (Bulma).
+- `Gemfile` & `Gemfile.lock`: Manages Ruby dependencies (Jekyll, jekyll-sitemap).
 
 ## Building and Running
 
@@ -43,6 +44,11 @@ To preview the site locally, you need Ruby, Bundler, and Node.js installed.
     bundle exec jekyll clean
     ```
 
+### Deployment
+The site is deployed to GitHub Pages via **GitHub Actions**. The workflow is defined in `.github/workflows/deploy.yml` and is triggered on every push to the `main` branch.
+
+**Note:** Ensure that the GitHub repository settings for Pages are set to **"GitHub Actions"** as the build and deployment source.
+
 ## Development Conventions
 - **Blog Posts**:
   - Add new posts to `_posts/` as `YYYY-MM-DD-filename.md`.
@@ -51,6 +57,8 @@ To preview the site locally, you need Ruby, Bundler, and Node.js installed.
 - **Styling**:
   - Modify `css/styles.scss` for style changes.
   - Do not manually edit or commit a `css/styles.css` file; it is a generated asset in the `_site` directory.
+- **Asset Paths**:
+  - Always use the Jekyll `relative_url` filter for links to CSS, images, and scripts (e.g., `{{ '/css/styles.css' | relative_url }}`) to ensure correct path resolution across environments.
 - **SEO/Metadata**:
   - Page titles are automatically generated as `Page Title`.
 - **Navigation**:
