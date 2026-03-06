@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: 'The Psychology of Feature Factories'
+section: Blog
+title: 'The Psychology of Feature Factories'
 date: 2024-09-12
 ---
 <div class="content" markdown="1">

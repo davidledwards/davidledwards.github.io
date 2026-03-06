@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Visualization of Largest Known Prime Number
+section: Blog
+title: 'Visualization of Largest Known Prime Number'
 date: 2013-07-23
 ---
 <div class="content" markdown="1">

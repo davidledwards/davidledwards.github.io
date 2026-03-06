@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: A Practical Approach to Product Development
+section: Blog
+title: 'A Practical Approach to Product Development'
 date: 2020-03-24
 ---
 <div class="content" markdown="1">

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: The Diminishing Importance of Releases
+section: Blog
+title: 'The Diminishing Importance of Releases'
 date: 2020-04-28
 ---
 <div class="content" markdown="1">

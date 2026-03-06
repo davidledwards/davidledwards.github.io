@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Writing a Purely Functional Compiler
+section: Blog
+title: 'Writing a Purely Functional Compiler'
 date: 2015-06-09
 ---
 <div class="content" markdown="1">

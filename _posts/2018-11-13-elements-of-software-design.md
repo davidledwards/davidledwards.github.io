@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Elements of Software Design
+section: Blog
+title: 'Elements of Software Design'
 date: 2018-11-13
 ---
 <div class="content" markdown="1">

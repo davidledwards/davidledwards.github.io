@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Continuous Learning Leads to Better Performance
+section: Blog
+title: 'Continuous Learning Leads to Better Performance'
 date: 2020-07-23
 ---
 <div class="content" markdown="1">

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: The Making of Monoliths
+section: Blog
+title: 'The Making of Monoliths'
 date: 2019-05-12
 ---
 <div class="content" markdown="1">

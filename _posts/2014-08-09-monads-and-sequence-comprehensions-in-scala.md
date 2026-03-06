@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Monads and Sequence Comprehensions in Scala
+section: Blog
+title: 'Monads and Sequence Comprehensions in Scala'
 date: 2014-08-09
 ---
 <div class="content" markdown="1">

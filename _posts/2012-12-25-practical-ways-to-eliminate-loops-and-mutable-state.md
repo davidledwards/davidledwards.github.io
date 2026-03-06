@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Practical Ways to Eliminate Loops and Mutable State in Scala Programs
+section: Blog
+title: 'Practical Ways to Eliminate Loops and Mutable State in Scala Programs'
 date: 2012-12-25
 ---
 <div class="content" markdown="1">

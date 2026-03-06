@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Unintended Consequences of Software Modification
+section: Blog
+title: 'Unintended Consequences of Software Modification'
 date: 2023-03-16
 ---
 <div class="content" markdown="1">

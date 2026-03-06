@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Our Most Important Learning Happens in the Tunnel of Change
+section: Blog
+title: 'Our Most Important Learning Happens in the Tunnel of Change'
 date: 2017-03-09
 ---
 <div class="content" markdown="1">

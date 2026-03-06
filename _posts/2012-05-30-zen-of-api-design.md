@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Zen of API Design
+section: Blog
+title: 'Zen of API Design'
 date: 2012-05-30
 ---
 <div class="content" markdown="1">

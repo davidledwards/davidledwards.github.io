@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Lessons Gleaned from a Year of Change
+section: Blog
+title: 'Lessons Gleaned from a Year of Change'
 date: 2016-12-31
 ---
 <div class="content" markdown="1">

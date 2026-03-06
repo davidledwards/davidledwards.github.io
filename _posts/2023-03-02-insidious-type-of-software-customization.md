@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: An Insidious Type of Software Customization
+section: Blog
+title: 'An Insidious Type of Software Customization'
 date: 2023-03-02
 ---
 <div class="content" markdown="1">

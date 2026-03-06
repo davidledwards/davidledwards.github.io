@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Underlying Motivations for Customizing Software via Modification
+section: Blog
+title: 'Underlying Motivations for Customizing Software via Modification'
 date: 2023-03-10
 ---
 <div class="content" markdown="1">

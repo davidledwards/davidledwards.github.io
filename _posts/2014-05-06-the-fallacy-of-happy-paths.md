@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: The Fallacy of Happy Paths
+section: Blog
+title: 'The Fallacy of Happy Paths'
 date: 2014-05-06
 ---
 <div class="content" markdown="1">

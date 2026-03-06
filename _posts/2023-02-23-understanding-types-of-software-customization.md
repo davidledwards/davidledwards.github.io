@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Understanding the Various Types of Software Customization
+section: Blog
+title: 'Understanding the Various Types of Software Customization'
 date: 2023-02-23
 ---
 <div class="content" markdown="1">

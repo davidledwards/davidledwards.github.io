@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: A Tribute To My Late Father
+section: Blog
+title: 'A Tribute To My Late Father'
 date: 2016-11-20
 ---
 <div class="content" markdown="1">

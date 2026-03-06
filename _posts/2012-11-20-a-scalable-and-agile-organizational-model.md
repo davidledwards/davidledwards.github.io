@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: A Scalable and Agile Organizational Model
+section: Blog
+title: 'A Scalable and Agile Organizational Model'
 date: 2012-11-20
 ---
 <div class="content" markdown="1">

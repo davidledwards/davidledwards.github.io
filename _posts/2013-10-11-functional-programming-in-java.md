@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Functional Programming in Java
+section: Blog
+title: 'Functional Programming in Java'
 date: 2013-10-11
 ---
 <div class="content" markdown="1">

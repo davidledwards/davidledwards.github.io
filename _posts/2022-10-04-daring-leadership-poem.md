@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Daring Leadership Poem
+section: Blog
+title: 'Daring Leadership Poem'
 date: 2022-10-04
 ---
 <div class="content" markdown="1">

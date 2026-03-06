@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Principles of Software Extensibility
+section: Blog
+title: 'Principles of Software Extensibility'
 date: 2023-03-22
 ---
 <div class="content" markdown="1">

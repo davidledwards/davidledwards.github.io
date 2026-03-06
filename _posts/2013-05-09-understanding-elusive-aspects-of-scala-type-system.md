@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Understanding Elusive Aspects of the Scala Type System
+section: Blog
+title: 'Understanding Elusive Aspects of the Scala Type System'
 date: 2013-05-09
 ---
 <div class="content" markdown="1">

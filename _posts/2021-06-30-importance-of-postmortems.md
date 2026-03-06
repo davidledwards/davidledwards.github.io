@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: The Importance of Postmortems
+section: Blog
+title: 'The Importance of Postmortems'
 date: 2021-06-30
 ---
 <div class="content" markdown="1">

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Translating Big Data Into Measurable Impact
+section: Blog
+title: 'Translating Big Data Into Measurable Impact'
 date: 2015-11-15
 ---
 <div class="content" markdown="1">

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Hadoop and Health Care&#58; A Timely Encounter
+section: Blog
+title: 'Hadoop and Health Care&#58; A Timely Encounter'
 date: 2016-01-29
 ---
 <div class="content" markdown="1">

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Getting Results
+section: Blog
+title: 'Getting Results'
 date: 2019-03-07
 ---
 <div class="content" markdown="1">

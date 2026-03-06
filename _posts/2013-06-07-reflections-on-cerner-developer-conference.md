@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Reflections on Cerner Developer Conference
+section: Blog
+title: 'Reflections on Cerner Developer Conference'
 date: 2013-06-07
 ---
 <div class="content" markdown="1">

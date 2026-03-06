@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: 'Clarifying Technical Debt'
+section: Blog
+title: 'Clarifying Technical Debt'
 date: 2024-12-29
 ---
 <div class="content" markdown="1">

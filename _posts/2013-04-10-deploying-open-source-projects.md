@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Deploying Open Source Projects
+section: Blog
+title: 'Deploying Open Source Projects'
 date: 2013-04-10
 ---
 <div class="content" markdown="1">

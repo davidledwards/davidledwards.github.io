@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Functional Programming&#58; A Pragmatic Introduction
+section: Blog
+title: 'Functional Programming&#58; A Pragmatic Introduction'
 date: 2013-10-10
 ---
 <div class="content" markdown="1">

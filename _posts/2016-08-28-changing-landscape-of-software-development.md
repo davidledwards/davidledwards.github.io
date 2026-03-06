@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: The Changing Landscape of Software Development
+section: Blog
+title: 'The Changing Landscape of Software Development'
 date: 2016-08-28
 ---
 <div class="content" markdown="1">

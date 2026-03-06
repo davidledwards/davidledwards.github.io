@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: The Raft Protocol&#58; A Better Paxos?
+section: Blog
+title: 'The Raft Protocol&#58; A Better Paxos?'
 date: 2014-01-24
 ---
 <div class="content" markdown="1">

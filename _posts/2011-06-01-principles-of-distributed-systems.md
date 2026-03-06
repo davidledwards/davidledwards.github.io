@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Principles of Distributed Systems
+section: Blog
+title: 'Principles of Distributed Systems'
 date: 2011-06-01
 ---
 <div class="content" markdown="1">

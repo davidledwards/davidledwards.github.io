@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: 'Joy From a Dying Man'
+section: Blog
+title: 'Joy From a Dying Man'
 date: 2025-07-06
 ---
 <div class="content" markdown="1">

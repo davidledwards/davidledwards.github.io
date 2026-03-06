@@ -9,20 +9,20 @@ This website is generated using [Jekyll](https://jekyllrb.com/), which GitHub Pa
 To build locally, run the following command from the shell and direct the browser to `http://localhost:4000`.
 
 ```shell
-jekyll serve --incremental
+bundle exec jekyll serve --incremental
 ```
 
 To clean up after yourself, try the following command.
 
 ```shell
-jekyll clean
+bundle exec jekyll clean
 ```
 
 ## Styling
 
 This website is styled using [Bulma](https://bulma.io).
 
-Follow these [instructions for modifying the Bulma theme](https://bulma.io/documentation/customize/with-sass/). Source files are located in the `sass` directory.
+Follow these [instructions for modifying the Bulma theme](https://bulma.io/documentation/customize/with-sass/). Source files are located in the `css` directory.
 
 ## License
 

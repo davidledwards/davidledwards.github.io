@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: 'The Folly of AI Producing Lots of Code'
+section: Blog
+title: 'The Folly of AI Producing Lots of Code'
 date: 2024-09-09
 ---
 <div class="content" markdown="1">

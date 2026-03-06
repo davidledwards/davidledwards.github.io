@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Northwest Missouri State University Commencement Address
+section: Blog
+title: 'Northwest Missouri State University Commencement Address'
 date: 2016-04-30
 ---
 <div class="content" markdown="1">

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: An Approachable Explanation of APIs
+section: Blog
+title: 'An Approachable Explanation of APIs'
 date: 2023-08-02
 ---
 <div class="content" markdown="1">

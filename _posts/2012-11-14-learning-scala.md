@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Learning Scala
+section: Blog
+title: 'Learning Scala'
 date: 2012-11-14
 ---
 <div class="content" markdown="1">

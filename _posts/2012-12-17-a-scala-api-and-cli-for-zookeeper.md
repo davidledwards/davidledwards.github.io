@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: A Scala API and CLI for ZooKeeper
+section: Blog
+title: 'A Scala API and CLI for ZooKeeper'
 date: 2012-12-17
 ---
 <div class="content" markdown="1">

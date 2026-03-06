@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: The Paradoxical Nature of Software
+section: Blog
+title: 'The Paradoxical Nature of Software'
 date: 2018-04-22
 ---
 <div class="content" markdown="1">

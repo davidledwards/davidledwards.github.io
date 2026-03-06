@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: The Role of APIs
+section: Blog
+title: 'The Role of APIs'
 date: 2019-03-29
 ---
 <div class="content" markdown="1">

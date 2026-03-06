@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Functional vs Quality Requirements
+section: Blog
+title: 'Functional vs Quality Requirements'
 date: 2019-01-02
 ---
 <div class="content" markdown="1">

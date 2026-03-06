@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog
-topic: Improving Sepsis Diagnosis and Reducing Cost with Big Data
+section: Blog
+title: 'Improving Sepsis Diagnosis and Reducing Cost with Big Data'
 date: 2016-02-10
 ---
 <div class="content" markdown="1">
