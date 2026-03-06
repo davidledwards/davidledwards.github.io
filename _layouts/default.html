@@ -5,19 +5,19 @@
         <meta name="author" content="David Edwards"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ page.title }}</title>
-        <link rel="stylesheet" type="text/css" href="/css/styles.css"/>
-        <link rel="stylesheet" type="text/css" href="/css/syntax.css"/>
-        <link rel="icon" type="image/png" href="/images/de-icon.png"/>
+        <link rel="stylesheet" type="text/css" href="{{ '/css/styles.css' | relative_url }}"/>
+        <link rel="stylesheet" type="text/css" href="{{ '/css/syntax.css' | relative_url }}"/>
+        <link rel="icon" type="image/png" href="{{ '/images/de-icon.png' | relative_url }}"/>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-TNWF9013C4"></script>
-        <script src="/scripts/gtag.js"></script>
-        <script src="/scripts/navbar.js"></script>
+        <script src="{{ '/scripts/gtag.js' | relative_url }}"></script>
+        <script src="{{ '/scripts/navbar.js' | relative_url }}"></script>
     </head>
     <body class="has-navbar-fixed-top">
         <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
             <div class="container has-text-weight-bold">
                 <div class="navbar-brand">
-                    <a class="navbar-item" href="/">
-                        <img src="/images/de-icon.png">
+                    <a class="navbar-item" href="{{ '/' | relative_url }}">
+                        <img src="{{ '/images/de-icon.png' | relative_url }}">
                     </a>
                     <p class="navbar-item has-text-grey is-uppercase">
                         {{ page.section }}
@@ -30,10 +30,10 @@
                 </div>
                 <div id="navbarMenu" class="navbar-menu">
                     <div class="navbar-end">
-                        <a class="navbar-item" href="/about">
+                        <a class="navbar-item" href="{{ '/about' | relative_url }}">
                             About
                         </a>
-                        <a class="navbar-item" href="/blog">
+                        <a class="navbar-item" href="{{ '/blog' | relative_url }}">
                             Blog
                         </a>
                         <a class="navbar-item" href="https://linkedin.com/in/davidledwards">
