@@ -26,4 +26,4 @@ Follow these [instructions for modifying the Bulma theme](https://bulma.io/docum
 
 ## License
 
-Copyright © 2024 David Edwards
+Copyright © 2026 David Edwards
